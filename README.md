@@ -10,5 +10,5 @@ _For this project, students are expected to look at these concepts:_
 ### Welcome to the AirBnB clone project! (The Holberton B&B)
 Before starting, please read the __AirBnB__ concept page.
 
-<a href="https://www.youtube.com/watch?v=E12Xc3H2xqo&feature=emb_logo"><img src="https://ibb.co/G0VctZj"></a>
+<a href="https://www.youtube.com/watch?v=E12Xc3H2xqo&feature=emb_logo"><img src="https://ibb.co/5YJbDwS"></a>
 
