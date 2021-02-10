@@ -70,8 +70,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - All your files must be executable
 - The length of your files will be tested using wc
 - All your modules should have a documentation (python3 -c 'print(\_\_import__("my_module").\_\_doc__)')
-- All your classes should have a documentation (python3 -c 'print(\__import__("my_module").MyClass.\__doc__)')
-- All your functions (inside and outside a class) should have a documentation (python3 -c 'print(\__import__("my_module").my_function.\__doc__)' and python3 -c 'print(\__import__("my_module").MyClass.my_function.\__doc__)')
+- All your classes should have a documentation (python3 -c 'print(\_\_import__("my_module").MyClass.\_\_doc__)')
+- All your functions (inside and outside a class) should have a documentation (python3 -c 'print(\_\_import__("my_module").my_function.\_\_doc__)' and python3 -c 'print(\_\_import__("my_module").MyClass.my_function.\_\_doc__)')
 - A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 
 ### Python Unit Tests
@@ -86,7 +86,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - e.g., For models/user.py, unit tests must be in: tests/test_models/test_user.py
 - All your tests should be executed by using this command: python3 -m unittest discover tests
 - You can also test file by file by using this command: python3 -m unittest tests/test_models/test_base_model.py
-- All your modules should have a documentation (python3 -c 'print(__import__("my_module").__doc__)')
-- All your classes should have a documentation (python3 -c 'print(__import__("my_module").MyClass.__doc__)')
-- All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
+- All your modules should have a documentation (python3 -c 'print(\_\_import__("my_module").\_\_doc__)')
+- All your classes should have a documentation (python3 -c 'print(\_\_import__("my_module").MyClass.\_\_doc__)')
+- All your functions (inside and outside a class) should have a documentation (python3 -c 'print(\_\_import__("my_module").my_function.\_\_doc__)' and python3 -c 'print(\_\_import__("my_module").MyClass.my_function.\_\_doc__)')
 - We strongly encourage you to work together on test cases, so that you don’t miss any edge case
